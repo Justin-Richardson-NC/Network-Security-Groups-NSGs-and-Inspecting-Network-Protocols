@@ -33,7 +33,7 @@ We will also take a look at some of the protocols that are used and can bve view
 
 
 
-![Lets-Get-Started-2-1-1024x480]([https://github.com/techwithterrence/azure-network-protocols/assets/174138674/3be048a1-0dbc-4c7d-95ff-0ab098d5f0bf](https://t3.ftcdn.net/jpg/05/02/25/34/360_F_502253449_JpL5PjrtafTaIInM6Qj4twYk9sN0H4jf.jpg))
+![image](https://github.com/user-attachments/assets/6634f0fe-73d8-4123-b125-15f7476c3d46)
 
 
 
