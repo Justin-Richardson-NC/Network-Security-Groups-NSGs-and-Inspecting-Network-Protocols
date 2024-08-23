@@ -33,7 +33,8 @@ We will also take a look at some of the protocols that are used and can bve view
 
 
 
-![image](https://github.com/user-attachments/assets/6634f0fe-73d8-4123-b125-15f7476c3d46)
+![image](https://github.com/user-attachments/assets/e2c4aca3-e560-4364-89a1-5c98251d99b9)
+
 
 
 
